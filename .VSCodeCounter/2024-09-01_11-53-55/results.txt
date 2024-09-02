@@ -1,0 +1,133 @@
+Date : 2024-09-01 11:53:55
+Directory : c:\Users\fadib\Desktop\razane-website
+Total : 86 files,  7739 codes, 85 comments, 261 blanks, all 8085 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          2 |      5,480 |          0 |          2 |      5,482 |
+| JavaScript JSX |         34 |      1,248 |         27 |        163 |      1,438 |
+| JavaScript     |          6 |        566 |         58 |         32 |        656 |
+| XML            |         40 |        338 |          0 |         32 |        370 |
+| CSS            |          2 |         89 |          0 |         27 |        116 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| Markdown       |          1 |          5 |          0 |          4 |          9 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                             |         86 |      7,739 |         85 |        261 |      8,085 |
+| . (Files)                                                                     |          8 |      5,671 |          2 |         13 |      5,686 |
+| public                                                                        |          1 |          1 |          0 |          0 |          1 |
+| src                                                                           |         76 |      2,046 |         83 |        243 |      2,372 |
+| src (Files)                                                                   |          3 |        105 |          2 |         26 |        133 |
+| src\assets                                                                    |         49 |        702 |          0 |         62 |        764 |
+| src\assets (Files)                                                            |         19 |        271 |          0 |         22 |        293 |
+| src\assets\benefits                                                           |         10 |         82 |          0 |         10 |         92 |
+| src\assets\collaboration                                                      |          2 |          6 |          0 |          2 |          8 |
+| src\assets\pricing                                                            |          2 |         39 |          0 |          1 |         40 |
+| src\assets\roadmap                                                            |          2 |         25 |          0 |          2 |         27 |
+| src\assets\socials                                                            |          5 |         52 |          0 |          5 |         57 |
+| src\assets\svg                                                                |          9 |        227 |          0 |         20 |        247 |
+| src\components                                                                |         23 |        984 |         25 |        139 |      1,148 |
+| src\components (Files)                                                        |         16 |        731 |         24 |        100 |        855 |
+| src\components\design                                                         |          7 |        253 |          1 |         39 |        293 |
+| src\constants                                                                 |          1 |        255 |         56 |         16 |        327 |
+| styles                                                                        |          1 |         21 |          0 |          5 |         26 |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                      | language       | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\fadib\Desktop\razane-website\.eslintrc.cjs                           | JavaScript     |         22 |          0 |          1 |         23 |
+| c:\Users\fadib\Desktop\razane-website\README.md                               | Markdown       |          5 |          0 |          4 |          9 |
+| c:\Users\fadib\Desktop\razane-website\index.html                              | HTML           |         13 |          0 |          1 |         14 |
+| c:\Users\fadib\Desktop\razane-website\package-lock.json                       | JSON           |      5,448 |          0 |          1 |      5,449 |
+| c:\Users\fadib\Desktop\razane-website\package.json                            | JSON           |         32 |          0 |          1 |         33 |
+| c:\Users\fadib\Desktop\razane-website\postcss.config.js                       | JavaScript     |          6 |          0 |          1 |          7 |
+| c:\Users\fadib\Desktop\razane-website\public\vite.svg                         | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\App.jsx                             | JavaScript JSX |         25 |          2 |          3 |         30 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-1.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-2.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-3.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-4.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-5.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-6.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-1.svg          | XML            |          4 |          0 |          1 |          5 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-2.svg          | XML            |          4 |          0 |          1 |          5 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-3.svg          | XML            |          7 |          0 |          1 |          8 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-4.svg          | XML            |          7 |          0 |          1 |          8 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\brainwave-symbol-white.svg   | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\brainwave-symbol.svg         | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\brainwave.svg                | XML            |         67 |          0 |          1 |         68 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\check-02.svg                 | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\check.svg                    | XML            |          4 |          0 |          1 |          5 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\chrome-cast.svg              | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\collaboration\curve-1.svg    | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\collaboration\curve-2.svg    | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\disc-02.svg                  | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\file-02.svg                  | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\home-smile.svg               | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\index.js                     | JavaScript     |        138 |          0 |         10 |        148 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\loading-01.svg               | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\play.svg                     | XML            |          5 |          0 |          0 |          5 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\plus-square.svg              | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\pricing\lines.svg            | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\pricing\stars.svg            | XML            |         38 |          0 |          1 |         39 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\react.svg                    | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\recording-01.svg             | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\recording-03.svg             | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\roadmap\done.svg             | XML            |         12 |          0 |          1 |         13 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\roadmap\undone.svg           | XML            |         13 |          0 |          1 |         14 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\search-md.svg                | XML            |          3 |          0 |          1 |          4 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\sliders-04.svg               | XML            |          4 |          0 |          1 |          5 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\socials\discord.svg          | XML            |         11 |          0 |          1 |         12 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\socials\facebook.svg         | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\socials\instagram.svg        | XML            |         11 |          0 |          1 |         12 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\socials\telegram.svg         | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\socials\twitter.svg          | XML            |         10 |          0 |          1 |         11 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\Arrow.jsx                | JavaScript JSX |          8 |          0 |          2 |         10 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\Brackets.jsx             | JavaScript JSX |         44 |          0 |          2 |         46 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\ButtonGradient.jsx       | JavaScript JSX |         31 |          0 |          2 |         33 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\ButtonSvg.jsx            | JavaScript JSX |         59 |          0 |          2 |         61 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\ChatBubbleWing.jsx       | JavaScript JSX |         16 |          0 |          2 |         18 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\ClipPath.jsx             | JavaScript JSX |         10 |          0 |          2 |         12 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\MenuSvg.jsx              | JavaScript JSX |         30 |          0 |          2 |         32 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\PlusSvg.jsx              | JavaScript JSX |         11 |          0 |          2 |         13 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\svg\SectionSvg.jsx           | JavaScript JSX |         18 |          0 |          4 |         22 |
+| c:\Users\fadib\Desktop\razane-website\src\assets\yourlogo.svg                 | XML            |         17 |          0 |          1 |         18 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Benefits.jsx             | JavaScript JSX |         65 |          0 |          7 |         72 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Button.jsx               | JavaScript JSX |         21 |          0 |          6 |         27 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Collaboration.jsx        | JavaScript JSX |         75 |          3 |          9 |         87 |
+| c:\Users\fadib\Desktop\razane-website\src\components\CompanyLogos.jsx         | JavaScript JSX |         21 |          0 |          3 |         24 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Footer.jsx               | JavaScript JSX |         26 |          1 |          4 |         31 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Generating.jsx           | JavaScript JSX |         14 |          0 |          3 |         17 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Header.jsx               | JavaScript JSX |         75 |          6 |         12 |         93 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Heading.jsx              | JavaScript JSX |         13 |          0 |          3 |         16 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Hero.jsx                 | JavaScript JSX |         66 |         11 |         11 |         88 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Notification.jsx         | JavaScript JSX |         42 |          0 |          5 |         47 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Pricing.jsx              | JavaScript JSX |        105 |          2 |          8 |        115 |
+| c:\Users\fadib\Desktop\razane-website\src\components\PricingList.jsx          | JavaScript JSX |         49 |          0 |          7 |         56 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Roadmap.jsx              | JavaScript JSX |         70 |          0 |          9 |         79 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Section.jsx              | JavaScript JSX |         36 |          0 |          4 |         40 |
+| c:\Users\fadib\Desktop\razane-website\src\components\Servises.jsx             | JavaScript JSX |         42 |          1 |          6 |         49 |
+| c:\Users\fadib\Desktop\razane-website\src\components\TagLine.jsx              | JavaScript JSX |         11 |          0 |          3 |         14 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Benefits.jsx      | JavaScript JSX |          5 |          0 |          1 |          6 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Collaboration.jsx | JavaScript JSX |         15 |          0 |          3 |         18 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Header.jsx        | JavaScript JSX |         44 |          0 |          8 |         52 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Hero.jsx          | JavaScript JSX |         85 |          1 |         16 |        102 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Pricing.jsx       | JavaScript JSX |         27 |          0 |          3 |         30 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Roadmap.jsx       | JavaScript JSX |         16 |          0 |          2 |         18 |
+| c:\Users\fadib\Desktop\razane-website\src\components\design\Services.jsx      | JavaScript JSX |         61 |          0 |          6 |         67 |
+| c:\Users\fadib\Desktop\razane-website\src\constants\index.js                  | JavaScript     |        255 |         56 |         16 |        327 |
+| c:\Users\fadib\Desktop\razane-website\src\index.css                           | CSS            |         68 |          0 |         22 |         90 |
+| c:\Users\fadib\Desktop\razane-website\src\main.jsx                            | JavaScript JSX |         12 |          0 |          1 |         13 |
+| c:\Users\fadib\Desktop\razane-website\styles\globals.css                      | CSS            |         21 |          0 |          5 |         26 |
+| c:\Users\fadib\Desktop\razane-website\tailwind.config.js                      | JavaScript     |        140 |          1 |          2 |        143 |
+| c:\Users\fadib\Desktop\razane-website\vite.config.js                          | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                         |                |      7,739 |         85 |        261 |      8,085 |
++-------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

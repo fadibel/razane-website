@@ -1,0 +1,88 @@
+"filename", "language", "JSON", "HTML", "Markdown", "JavaScript", "CSS", "JavaScript JSX", "XML", "comment", "blank", "total"
+"c:\Users\fadib\Desktop\razane-website\.eslintrc.cjs", "JavaScript", 0, 0, 0, 22, 0, 0, 0, 0, 1, 23
+"c:\Users\fadib\Desktop\razane-website\README.md", "Markdown", 0, 0, 5, 0, 0, 0, 0, 0, 4, 9
+"c:\Users\fadib\Desktop\razane-website\index.html", "HTML", 0, 13, 0, 0, 0, 0, 0, 0, 1, 14
+"c:\Users\fadib\Desktop\razane-website\package-lock.json", "JSON", 5448, 0, 0, 0, 0, 0, 0, 0, 1, 5449
+"c:\Users\fadib\Desktop\razane-website\package.json", "JSON", 32, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"c:\Users\fadib\Desktop\razane-website\postcss.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 1, 7
+"c:\Users\fadib\Desktop\razane-website\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 25, 0, 2, 3, 30
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-1.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-2.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-3.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-4.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-5.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\card-6.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-1.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-2.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-3.svg", "XML", 0, 0, 0, 0, 0, 0, 7, 0, 1, 8
+"c:\Users\fadib\Desktop\razane-website\src\assets\benefits\icon-4.svg", "XML", 0, 0, 0, 0, 0, 0, 7, 0, 1, 8
+"c:\Users\fadib\Desktop\razane-website\src\assets\brainwave-symbol-white.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\assets\brainwave-symbol.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\assets\brainwave.svg", "XML", 0, 0, 0, 0, 0, 0, 67, 0, 1, 68
+"c:\Users\fadib\Desktop\razane-website\src\assets\check-02.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\check.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\fadib\Desktop\razane-website\src\assets\chrome-cast.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\assets\collaboration\curve-1.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\collaboration\curve-2.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\disc-02.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\file-02.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\home-smile.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\index.js", "JavaScript", 0, 0, 0, 138, 0, 0, 0, 0, 10, 148
+"c:\Users\fadib\Desktop\razane-website\src\assets\loading-01.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\play.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 5
+"c:\Users\fadib\Desktop\razane-website\src\assets\plus-square.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\pricing\lines.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\assets\pricing\stars.svg", "XML", 0, 0, 0, 0, 0, 0, 38, 0, 1, 39
+"c:\Users\fadib\Desktop\razane-website\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\assets\recording-01.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\fadib\Desktop\razane-website\src\assets\recording-03.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\roadmap\done.svg", "XML", 0, 0, 0, 0, 0, 0, 12, 0, 1, 13
+"c:\Users\fadib\Desktop\razane-website\src\assets\roadmap\undone.svg", "XML", 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\fadib\Desktop\razane-website\src\assets\search-md.svg", "XML", 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\fadib\Desktop\razane-website\src\assets\sliders-04.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\fadib\Desktop\razane-website\src\assets\socials\discord.svg", "XML", 0, 0, 0, 0, 0, 0, 11, 0, 1, 12
+"c:\Users\fadib\Desktop\razane-website\src\assets\socials\facebook.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\socials\instagram.svg", "XML", 0, 0, 0, 0, 0, 0, 11, 0, 1, 12
+"c:\Users\fadib\Desktop\razane-website\src\assets\socials\telegram.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\socials\twitter.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 1, 11
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\Arrow.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 8, 0, 0, 2, 10
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\Brackets.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 44, 0, 0, 2, 46
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\ButtonGradient.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 31, 0, 0, 2, 33
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\ButtonSvg.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 59, 0, 0, 2, 61
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\ChatBubbleWing.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 2, 18
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\ClipPath.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 10, 0, 0, 2, 12
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\MenuSvg.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 30, 0, 0, 2, 32
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\PlusSvg.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 11, 0, 0, 2, 13
+"c:\Users\fadib\Desktop\razane-website\src\assets\svg\SectionSvg.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 18, 0, 0, 4, 22
+"c:\Users\fadib\Desktop\razane-website\src\assets\yourlogo.svg", "XML", 0, 0, 0, 0, 0, 0, 17, 0, 1, 18
+"c:\Users\fadib\Desktop\razane-website\src\components\Benefits.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 65, 0, 0, 7, 72
+"c:\Users\fadib\Desktop\razane-website\src\components\Button.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 21, 0, 0, 6, 27
+"c:\Users\fadib\Desktop\razane-website\src\components\Collaboration.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 75, 0, 3, 9, 87
+"c:\Users\fadib\Desktop\razane-website\src\components\CompanyLogos.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 21, 0, 0, 3, 24
+"c:\Users\fadib\Desktop\razane-website\src\components\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 26, 0, 1, 4, 31
+"c:\Users\fadib\Desktop\razane-website\src\components\Generating.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 3, 17
+"c:\Users\fadib\Desktop\razane-website\src\components\Header.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 75, 0, 6, 12, 93
+"c:\Users\fadib\Desktop\razane-website\src\components\Heading.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"c:\Users\fadib\Desktop\razane-website\src\components\Hero.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 66, 0, 11, 11, 88
+"c:\Users\fadib\Desktop\razane-website\src\components\Notification.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 42, 0, 0, 5, 47
+"c:\Users\fadib\Desktop\razane-website\src\components\Pricing.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 105, 0, 2, 8, 115
+"c:\Users\fadib\Desktop\razane-website\src\components\PricingList.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 49, 0, 0, 7, 56
+"c:\Users\fadib\Desktop\razane-website\src\components\Roadmap.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 70, 0, 0, 9, 79
+"c:\Users\fadib\Desktop\razane-website\src\components\Section.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 36, 0, 0, 4, 40
+"c:\Users\fadib\Desktop\razane-website\src\components\Servises.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 42, 0, 1, 6, 49
+"c:\Users\fadib\Desktop\razane-website\src\components\TagLine.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 11, 0, 0, 3, 14
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Benefits.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 5, 0, 0, 1, 6
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Collaboration.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 3, 18
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Header.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 44, 0, 0, 8, 52
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Hero.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 85, 0, 1, 16, 102
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Pricing.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 27, 0, 0, 3, 30
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Roadmap.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 2, 18
+"c:\Users\fadib\Desktop\razane-website\src\components\design\Services.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 61, 0, 0, 6, 67
+"c:\Users\fadib\Desktop\razane-website\src\constants\index.js", "JavaScript", 0, 0, 0, 255, 0, 0, 0, 56, 16, 327
+"c:\Users\fadib\Desktop\razane-website\src\index.css", "CSS", 0, 0, 0, 0, 68, 0, 0, 0, 22, 90
+"c:\Users\fadib\Desktop\razane-website\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 12, 0, 0, 1, 13
+"c:\Users\fadib\Desktop\razane-website\styles\globals.css", "CSS", 0, 0, 0, 0, 21, 0, 0, 0, 5, 26
+"c:\Users\fadib\Desktop\razane-website\tailwind.config.js", "JavaScript", 0, 0, 0, 140, 0, 0, 0, 1, 2, 143
+"c:\Users\fadib\Desktop\razane-website\vite.config.js", "JavaScript", 0, 0, 0, 5, 0, 0, 0, 1, 2, 8
+"Total", "-", 5480, 13, 5, 566, 89, 1248, 338, 85, 261, 8085

@@ -1,11 +1,11 @@
 import ButtonGradient from "./assets/svg/ButtonGradient"
 import Header from "./components/Header"
 import Hero from "./components/Hero"
-import Benefits from "./components/Benefits"
+// import Benefits from "./components/Benefits"
 import Collaboration from "./components/Collaboration"
 import Servises from "./components/Servises"
 import Pricing  from "./components/Pricing" 
-import Roadmap from "./components/Roadmap"
+// import Roadmap from "./components/Roadmap"
 import Footer from "./components/Footer"
 
 function App() {
@@ -14,11 +14,11 @@ function App() {
     <div className=" pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden  ">
        <Header />
        <Hero />
-       <Benefits/>
-       <Collaboration/>
+       {/* <Benefits/> */}
        <Servises/>
+       <Collaboration/>
        <Pricing/>
-       <Roadmap/>
+       {/* <Roadmap/> */}
        <Footer/>
     </div>
     <ButtonGradient/>
